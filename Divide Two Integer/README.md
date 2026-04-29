@@ -1,13 +1,13 @@
-Divide Two Integers
-Problem Statement:-
+# Divide Two Integers
+
+## Problem Statement
 Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.
 
 The integer division should truncate toward zero, which means losing its fractional part. For example, 8.345 would be truncated to 8, and -2.7335 would be truncated to -2.
 
 Return the quotient after dividing dividend by divisor.
 
-
-My Approach:-
+## My Approach
 
 Here, we have to divide 2 integers without using direct division, and we have to return the quotient of that divison with its fractional part removed.
 So, here is my approach:-
