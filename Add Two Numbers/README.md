@@ -21,4 +21,4 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 8. Add digit to linked-list as, current->next = new ListNode(digit); it creates a new node with value as digit, which is the sum of both nodes of l1,l2
 9. Move current pointer to next, current=current->next
 10. Traverse lists l1 and l2 to next node if their next node exists, follow the entire same pattern
-11. Return dummy->next, because dummy is the dummy node, with value as 0, so that it returns the entire list after dummy
+11. Return dummy->next, because dummy is the dummy node, with value as 0, so that it returns the entire list after dummy.
