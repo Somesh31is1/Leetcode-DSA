@@ -27,9 +27,8 @@ Problem is solved by storing the frequency of each element in the hashmap in the
 4. If still anything doesn't work out as fair, return -1
 
 ## Animation Style Walkthrough
-See [animation.md](./animation.md) for a step-by-step visual or textual walkthrough.
 
-nput:
+Input:
 
 nums = [2,2,1,1,1,2,2]
 Start
