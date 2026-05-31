@@ -30,6 +30,7 @@ Output: [1,2]
 
 ## My Approach
 This question asks to give the top 'k' numbers, who have maximum occurence in the array
+
 Concept - Use a Hashmap to store the frequencies of all numbers, create another vector array to store the pairs from hashmap in reverse order i.e. (freq, number), as we want to sort the numbers as per their
 frequencies, so in that array, sort the pairs, sorting checks the first parameter from the pair i.e. frequency, create answer array, use for loop till 'k' on array, push the second parameter from pair i.e. number 
 into the answer array
